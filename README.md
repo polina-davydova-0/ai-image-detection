@@ -40,7 +40,7 @@
 
 ## Как воспроизвести эксперимент
 
-1. Скачайте базу данных по ссылке из `LINKS.md`
+1. Скачайте базу данных по ссылке из `my_own_dataset.md`
 2. Установите зависимости: `pip install transformers torch sklearn tqdm pillow`
 3. Откройте ноутбуки в папке `notebooks/` в Google Colab или локально
 
