@@ -1,0 +1,8 @@
+Generator,AIorNot-SigLIP2,AI-image-detector,AI-vs-Deepfake
+BigGAN,50.0,50.0,37.0
+VQDM,50.0,50.0,49.0
+Stable Diffusion v1.5,50.0,50.0,52.5
+Wukong,50.0,50.0,53.5
+ADM,50.0,50.0,46.0
+Glide,50.0,50.0,47.5
+Midjourney,50.0,50.0,53.0

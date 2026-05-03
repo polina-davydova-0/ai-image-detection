@@ -1,0 +1,4 @@
+Model,Accuracy,Precision_Real,Recall_Real,Precision_Fake,Recall_Fake
+AIorNot-SigLIP2,50.0,0.5,1.0,0.0,0.0
+AI-image-detector,50.0,0.5,1.0,0.0,0.0
+AI-vs-Deepfake,67.69,0.8,0.47,0.62,0.88

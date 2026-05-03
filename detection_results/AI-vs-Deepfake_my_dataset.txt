@@ -1,0 +1,10 @@
+Model: AI-vs-Deepfake
+Accuracy: 0.6769
+              precision    recall  f1-score   support
+
+        Real       0.80      0.47      0.59       130
+        Fake       0.62      0.88      0.73       130
+
+    accuracy                           0.68       260
+   macro avg       0.71      0.68      0.66       260
+weighted avg       0.71      0.68      0.66       260
